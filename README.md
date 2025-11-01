@@ -565,7 +565,7 @@ At this point, you have strong foundational skills. Now it's time to go **deep**
 ### 🛡️ Track A: Security Engineering Focus
 
 **Best for you if:**
-- You want to leverage your security clearance
+
 - You enjoy finding and fixing security issues
 - You like the challenge of thinking like an attacker
 - CoreWeave Application Security Engineer appeals to you
@@ -1038,7 +1038,7 @@ External AWS Services:
 **Create 3 versions:**
 
 **1. Security Engineer Resume**
-- Lead with: Secret Clearance, CKS, Security Experience
+- Lead with:  CKS, Security Experience
 - Highlight: DevSecOps, SAST/DAST, Threat Modeling
 - Projects: Security platform, compliance automation
 
@@ -1111,7 +1111,7 @@ External AWS Services:
    - Security vs. velocity trade-offs
 
 2. **Technical Leadership:**
-   - DevSecOps pipeline at TIAG
+   - DevSecOps pipeline
    - Security automation project
    - Mentoring on security practices
 
@@ -1750,7 +1750,7 @@ External AWS Services:
 
 **You're building a unique combination:**
 
-1. **Security** - Your clearance + DevSecOps background
+1. **Security** -  DevSecOps background
 2. **Infrastructure** - Kubernetes + Terraform + Cloud
 3. **Engineering** - Python + Databases + Automation
 4. **Production** - Real experience + proven track record
@@ -1774,9 +1774,8 @@ External AWS Services:
 **You already have:**
 - ✅ Strong foundation (AWS, Python, IaC)
 - ✅ Production experience (not just labs)
-- ✅ Security clearance (rare differentiator)
 - ✅ Proven learning ability (certs, promotions)
-- ✅ Real DevSecOps background (TIAG)
+- ✅ Real DevSecOps background 
 
 **You need to:**
 - 🎯 Execute this plan consistently
