@@ -9,13 +9,7 @@
 
 This plan provides a **unified learning path** that builds a strong foundation across cloud infrastructure, security, and engineering, then allows you to **specialize based on your interests and goals**.
 
-### Your Unique Advantages:
-- ✅ Active Secret Clearance (rare and valuable)
-- ✅ DevSecOps experience at TIAG (CI/CD + Security)
-- ✅ AWS Solutions Architect certification
-- ✅ Compliance background (STIG, RMF, POAM)
-- ✅ Real production experience (not just labs)
-- ✅ Proven learning ability (multiple certs, promotions)
+
 
 ### Core Philosophy:
 **Build a T-shaped skill set:**
